@@ -9,4 +9,6 @@ Clustering in Data Mining. Clustering is an unsupervised Machine Learning-based 
 
 
 - [K-Means Clsutering](https://github.com/nitor-infotech-oss/aiml-cluster/blob/main/K-Means%20Clsutering.ipynb)
+- [K-Means Clsutering Dataset](https://github.com/nitor-infotech-oss/aiml-cluster/blob/main/Mall_Customers.csv)
 - [Hierarchical Clustering](https://github.com/nitor-infotech-oss/aiml-cluster/blob/main/Hierarchical%20Clustering.ipynb)
+- [Hierarchical Clustering Dataset](https://github.com/nitor-infotech-oss/aiml-cluster/blob/main/Mall_Customers.csv)
